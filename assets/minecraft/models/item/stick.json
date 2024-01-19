@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/microphones/lover"},
+	    { "predicate": { "custom_model_data": 2}, "model": "item/microphones/surprise"},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/microphones/folklore"}
+    ]
+}

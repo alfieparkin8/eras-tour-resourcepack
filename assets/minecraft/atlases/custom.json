@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "item/microphones/",
+            "prefix": "item/microphones/"
+        },
+		
+            "type": "directory",
+            "source": "item/stage/",
+            "prefix": "item/stage/"
+        },
+		
+            "type": "directory",
+            "source": "item/guitars/",
+            "prefix": "item/guitars/"
+        }
+    ]
+}

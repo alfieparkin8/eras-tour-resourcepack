@@ -1,0 +1,88 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/red.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/orange.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/yellow.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/green.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/light_blue.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/blue.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/pink.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/purple.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/brown.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/white.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE00A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:icons/black.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE00B"]
+    },
+	{
+      "type": "bitmap",
+      "file": "minecraft:icons/title.png",
+      "ascent": 28,
+      "height":28,
+      "chars": ["\uE00C"]
+    }
+  ]
+}
