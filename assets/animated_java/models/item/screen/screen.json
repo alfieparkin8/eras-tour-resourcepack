@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "animated_java:item/screen/titlescreen",
-		"1": "animated_java:item/screen/texture"
+		"0": "minecraft:block/screens/titlescreen",
+		"1": "minecraft:block/screens/texture"
 	},
 	"elements": [
 		{
