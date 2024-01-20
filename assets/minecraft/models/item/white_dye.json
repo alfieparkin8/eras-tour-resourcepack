@@ -1,0 +1,131 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:item/eras_tour/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/eras_tour/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:item/eras_tour/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:item/eras_tour/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:item/eras_tour/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:item/eras_tour/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:item/eras/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:item/eras/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:item/eras/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:item/eras/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:item/eras/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:item/eras/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "animated_java:item/eras/circle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "animated_java:item/eras/base"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "animated_java:item/eras/neck"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"eras_tour": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7
+				]
+			},
+			"eras": {
+				"used_ids": [
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16
+				]
+			}
+		}
+	}
+}
