@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/black_dye"
+  },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/screens/titlescreen"},
+		{ "predicate": { "custom_model_data": 2}, "model": "item/screens/black_centre"},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/screens/13"},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/screens/12"}
+    ]
+}
