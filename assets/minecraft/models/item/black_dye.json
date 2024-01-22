@@ -7,6 +7,20 @@
 		{ "predicate": { "custom_model_data": 1}, "model": "item/screens/titlescreen"},
 		{ "predicate": { "custom_model_data": 2}, "model": "item/screens/black_centre"},
 		{ "predicate": { "custom_model_data": 3}, "model": "item/screens/13"},
-		{ "predicate": { "custom_model_data": 4}, "model": "item/screens/12"}
+		{ "predicate": { "custom_model_data": 4}, "model": "item/screens/12"},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/screens/11"},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/screens/10"},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/screens/9"},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/screens/8"},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/screens/7"},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/screens/6"},
+		{ "predicate": { "custom_model_data": 11}, "model": "item/screens/5"},
+		{ "predicate": { "custom_model_data": 12}, "model": "item/screens/4"},
+		{ "predicate": { "custom_model_data": 13}, "model": "item/screens/3"},
+		{ "predicate": { "custom_model_data": 14}, "model": "item/screens/2"},
+		{ "predicate": { "custom_model_data": 15}, "model": "item/screens/1"},
+		{ "predicate": { "custom_model_data": 16}, "model": "item/screens/0"}
+
+		
     ]
 }

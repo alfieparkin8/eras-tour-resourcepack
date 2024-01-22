@@ -1,0 +1,14 @@
+{
+  "clock.tick": {
+	"subtitle":"audio.intro.tick",
+    "sounds": [
+      "intro/tick"
+    ]
+  },
+  "clock.tock": {
+	"subtitle":"audio.intro.tock",
+    "sounds": [
+      "intro/tock"
+    ]
+  }
+}
