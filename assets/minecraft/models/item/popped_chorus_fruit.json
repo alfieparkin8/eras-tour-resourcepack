@@ -1,0 +1,1597 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/popped_chorus_fruit"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:item/parachute/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/parachute/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:item/parachute/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:item/parachute/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:item/parachute/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "animated_java:item/parachute/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "animated_java:item/parachute/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "animated_java:item/parachute/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "animated_java:item/parachute/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "animated_java:item/parachute/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "animated_java:item/parachute/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "animated_java:item/parachute/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "animated_java:item/parachute/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "animated_java:item/parachute/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "animated_java:item/parachute/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "animated_java:item/parachute/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "animated_java:item/parachute/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "animated_java:item/parachute/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "animated_java:item/parachute/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "animated_java:item/parachute/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "animated_java:item/parachute/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "animated_java:item/parachute/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "animated_java:item/parachute/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "animated_java:item/parachute/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "animated_java:item/parachute/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "animated_java:item/parachute/alex/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "animated_java:item/parachute/alex/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "animated_java:item/parachute/alex/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "animated_java:item/parachute/alex/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "animated_java:item/parachute/alex/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "animated_java:item/parachute/alex/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "animated_java:item/parachute/alex/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "animated_java:item/parachute/alex/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "animated_java:item/parachute/alex/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:item/parachute/alex/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "animated_java:item/parachute/alex/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "animated_java:item/parachute/alex/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "animated_java:item/parachute/alex/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "animated_java:item/parachute/alex/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "animated_java:item/parachute/alex/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "animated_java:item/parachute/alex/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "animated_java:item/parachute/alex/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "animated_java:item/parachute/alex/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "animated_java:item/parachute/alex/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "animated_java:item/parachute/alex/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "animated_java:item/parachute/alex/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "animated_java:item/parachute/alex/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "animated_java:item/parachute/alex/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "animated_java:item/parachute/alex/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "animated_java:item/parachute/alex/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "animated_java:item/parachute/ari/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "animated_java:item/parachute/ari/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "animated_java:item/parachute/ari/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "animated_java:item/parachute/ari/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "animated_java:item/parachute/ari/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "animated_java:item/parachute/ari/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "animated_java:item/parachute/ari/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "animated_java:item/parachute/ari/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "animated_java:item/parachute/ari/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "animated_java:item/parachute/ari/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "animated_java:item/parachute/ari/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "animated_java:item/parachute/ari/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "animated_java:item/parachute/ari/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "animated_java:item/parachute/ari/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "animated_java:item/parachute/ari/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "animated_java:item/parachute/ari/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "animated_java:item/parachute/ari/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "animated_java:item/parachute/ari/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "animated_java:item/parachute/ari/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "animated_java:item/parachute/ari/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "animated_java:item/parachute/ari/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "animated_java:item/parachute/ari/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "animated_java:item/parachute/ari/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "animated_java:item/parachute/ari/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "animated_java:item/parachute/ari/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "animated_java:item/parachute/efe/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "animated_java:item/parachute/efe/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "animated_java:item/parachute/efe/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "animated_java:item/parachute/efe/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "animated_java:item/parachute/efe/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "animated_java:item/parachute/efe/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "animated_java:item/parachute/efe/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "animated_java:item/parachute/efe/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "animated_java:item/parachute/efe/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "animated_java:item/parachute/efe/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "animated_java:item/parachute/efe/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "animated_java:item/parachute/efe/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "animated_java:item/parachute/efe/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "animated_java:item/parachute/efe/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "animated_java:item/parachute/efe/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "animated_java:item/parachute/efe/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "animated_java:item/parachute/efe/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "animated_java:item/parachute/efe/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "animated_java:item/parachute/efe/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "animated_java:item/parachute/efe/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "animated_java:item/parachute/efe/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 98
+			},
+			"model": "animated_java:item/parachute/efe/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 99
+			},
+			"model": "animated_java:item/parachute/efe/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 100
+			},
+			"model": "animated_java:item/parachute/efe/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "animated_java:item/parachute/efe/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "animated_java:item/parachute/kai/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "animated_java:item/parachute/kai/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "animated_java:item/parachute/kai/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "animated_java:item/parachute/kai/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "animated_java:item/parachute/kai/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 107
+			},
+			"model": "animated_java:item/parachute/kai/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 108
+			},
+			"model": "animated_java:item/parachute/kai/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 109
+			},
+			"model": "animated_java:item/parachute/kai/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 110
+			},
+			"model": "animated_java:item/parachute/kai/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 111
+			},
+			"model": "animated_java:item/parachute/kai/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 112
+			},
+			"model": "animated_java:item/parachute/kai/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 113
+			},
+			"model": "animated_java:item/parachute/kai/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 114
+			},
+			"model": "animated_java:item/parachute/kai/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 115
+			},
+			"model": "animated_java:item/parachute/kai/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 116
+			},
+			"model": "animated_java:item/parachute/kai/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 117
+			},
+			"model": "animated_java:item/parachute/kai/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 118
+			},
+			"model": "animated_java:item/parachute/kai/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 119
+			},
+			"model": "animated_java:item/parachute/kai/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 120
+			},
+			"model": "animated_java:item/parachute/kai/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 121
+			},
+			"model": "animated_java:item/parachute/kai/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 122
+			},
+			"model": "animated_java:item/parachute/kai/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 123
+			},
+			"model": "animated_java:item/parachute/kai/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 124
+			},
+			"model": "animated_java:item/parachute/kai/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 125
+			},
+			"model": "animated_java:item/parachute/kai/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 126
+			},
+			"model": "animated_java:item/parachute/kai/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 127
+			},
+			"model": "animated_java:item/parachute/makena/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 128
+			},
+			"model": "animated_java:item/parachute/makena/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 129
+			},
+			"model": "animated_java:item/parachute/makena/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 130
+			},
+			"model": "animated_java:item/parachute/makena/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 131
+			},
+			"model": "animated_java:item/parachute/makena/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 132
+			},
+			"model": "animated_java:item/parachute/makena/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 133
+			},
+			"model": "animated_java:item/parachute/makena/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 134
+			},
+			"model": "animated_java:item/parachute/makena/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 135
+			},
+			"model": "animated_java:item/parachute/makena/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 136
+			},
+			"model": "animated_java:item/parachute/makena/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 137
+			},
+			"model": "animated_java:item/parachute/makena/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 138
+			},
+			"model": "animated_java:item/parachute/makena/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 139
+			},
+			"model": "animated_java:item/parachute/makena/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 140
+			},
+			"model": "animated_java:item/parachute/makena/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 141
+			},
+			"model": "animated_java:item/parachute/makena/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 142
+			},
+			"model": "animated_java:item/parachute/makena/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 143
+			},
+			"model": "animated_java:item/parachute/makena/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 144
+			},
+			"model": "animated_java:item/parachute/makena/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 145
+			},
+			"model": "animated_java:item/parachute/makena/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 146
+			},
+			"model": "animated_java:item/parachute/makena/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 147
+			},
+			"model": "animated_java:item/parachute/makena/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 148
+			},
+			"model": "animated_java:item/parachute/makena/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 149
+			},
+			"model": "animated_java:item/parachute/makena/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 150
+			},
+			"model": "animated_java:item/parachute/makena/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 151
+			},
+			"model": "animated_java:item/parachute/makena/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 152
+			},
+			"model": "animated_java:item/parachute/noor/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 153
+			},
+			"model": "animated_java:item/parachute/noor/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 154
+			},
+			"model": "animated_java:item/parachute/noor/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 155
+			},
+			"model": "animated_java:item/parachute/noor/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 156
+			},
+			"model": "animated_java:item/parachute/noor/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 157
+			},
+			"model": "animated_java:item/parachute/noor/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 158
+			},
+			"model": "animated_java:item/parachute/noor/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 159
+			},
+			"model": "animated_java:item/parachute/noor/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 160
+			},
+			"model": "animated_java:item/parachute/noor/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 161
+			},
+			"model": "animated_java:item/parachute/noor/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 162
+			},
+			"model": "animated_java:item/parachute/noor/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 163
+			},
+			"model": "animated_java:item/parachute/noor/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 164
+			},
+			"model": "animated_java:item/parachute/noor/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 165
+			},
+			"model": "animated_java:item/parachute/noor/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 166
+			},
+			"model": "animated_java:item/parachute/noor/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 167
+			},
+			"model": "animated_java:item/parachute/noor/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 168
+			},
+			"model": "animated_java:item/parachute/noor/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 169
+			},
+			"model": "animated_java:item/parachute/noor/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 170
+			},
+			"model": "animated_java:item/parachute/noor/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 171
+			},
+			"model": "animated_java:item/parachute/noor/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 172
+			},
+			"model": "animated_java:item/parachute/noor/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 173
+			},
+			"model": "animated_java:item/parachute/noor/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 174
+			},
+			"model": "animated_java:item/parachute/noor/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 175
+			},
+			"model": "animated_java:item/parachute/noor/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 176
+			},
+			"model": "animated_java:item/parachute/noor/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 177
+			},
+			"model": "animated_java:item/parachute/sunny/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 178
+			},
+			"model": "animated_java:item/parachute/sunny/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 179
+			},
+			"model": "animated_java:item/parachute/sunny/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 180
+			},
+			"model": "animated_java:item/parachute/sunny/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 181
+			},
+			"model": "animated_java:item/parachute/sunny/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 182
+			},
+			"model": "animated_java:item/parachute/sunny/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 183
+			},
+			"model": "animated_java:item/parachute/sunny/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 184
+			},
+			"model": "animated_java:item/parachute/sunny/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 185
+			},
+			"model": "animated_java:item/parachute/sunny/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 186
+			},
+			"model": "animated_java:item/parachute/sunny/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 187
+			},
+			"model": "animated_java:item/parachute/sunny/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 188
+			},
+			"model": "animated_java:item/parachute/sunny/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 189
+			},
+			"model": "animated_java:item/parachute/sunny/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 190
+			},
+			"model": "animated_java:item/parachute/sunny/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 191
+			},
+			"model": "animated_java:item/parachute/sunny/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 192
+			},
+			"model": "animated_java:item/parachute/sunny/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 193
+			},
+			"model": "animated_java:item/parachute/sunny/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 194
+			},
+			"model": "animated_java:item/parachute/sunny/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 195
+			},
+			"model": "animated_java:item/parachute/sunny/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 196
+			},
+			"model": "animated_java:item/parachute/sunny/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 197
+			},
+			"model": "animated_java:item/parachute/sunny/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 198
+			},
+			"model": "animated_java:item/parachute/sunny/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 199
+			},
+			"model": "animated_java:item/parachute/sunny/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 200
+			},
+			"model": "animated_java:item/parachute/sunny/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 201
+			},
+			"model": "animated_java:item/parachute/sunny/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 202
+			},
+			"model": "animated_java:item/parachute/zuri/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 203
+			},
+			"model": "animated_java:item/parachute/zuri/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 204
+			},
+			"model": "animated_java:item/parachute/zuri/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 205
+			},
+			"model": "animated_java:item/parachute/zuri/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 206
+			},
+			"model": "animated_java:item/parachute/zuri/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 207
+			},
+			"model": "animated_java:item/parachute/zuri/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 208
+			},
+			"model": "animated_java:item/parachute/zuri/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 209
+			},
+			"model": "animated_java:item/parachute/zuri/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 210
+			},
+			"model": "animated_java:item/parachute/zuri/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 211
+			},
+			"model": "animated_java:item/parachute/zuri/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 212
+			},
+			"model": "animated_java:item/parachute/zuri/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 213
+			},
+			"model": "animated_java:item/parachute/zuri/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 214
+			},
+			"model": "animated_java:item/parachute/zuri/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 215
+			},
+			"model": "animated_java:item/parachute/zuri/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 216
+			},
+			"model": "animated_java:item/parachute/zuri/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 217
+			},
+			"model": "animated_java:item/parachute/zuri/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 218
+			},
+			"model": "animated_java:item/parachute/zuri/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 219
+			},
+			"model": "animated_java:item/parachute/zuri/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 220
+			},
+			"model": "animated_java:item/parachute/zuri/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 221
+			},
+			"model": "animated_java:item/parachute/zuri/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 222
+			},
+			"model": "animated_java:item/parachute/zuri/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 223
+			},
+			"model": "animated_java:item/parachute/zuri/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 224
+			},
+			"model": "animated_java:item/parachute/zuri/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 225
+			},
+			"model": "animated_java:item/parachute/zuri/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 226
+			},
+			"model": "animated_java:item/parachute/zuri/bone4"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"parachute": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16,
+					17,
+					18,
+					19,
+					20,
+					21,
+					22,
+					23,
+					24,
+					25,
+					26,
+					27,
+					28,
+					29,
+					30,
+					31,
+					32,
+					33,
+					34,
+					35,
+					36,
+					37,
+					38,
+					39,
+					40,
+					41,
+					42,
+					43,
+					44,
+					45,
+					46,
+					47,
+					48,
+					49,
+					50,
+					51,
+					52,
+					53,
+					54,
+					55,
+					56,
+					57,
+					58,
+					59,
+					60,
+					61,
+					62,
+					63,
+					64,
+					65,
+					66,
+					67,
+					68,
+					69,
+					70,
+					71,
+					72,
+					73,
+					74,
+					75,
+					76,
+					77,
+					78,
+					79,
+					80,
+					81,
+					82,
+					83,
+					84,
+					85,
+					86,
+					87,
+					88,
+					89,
+					90,
+					91,
+					92,
+					93,
+					94,
+					95,
+					96,
+					97,
+					98,
+					99,
+					100,
+					101,
+					102,
+					103,
+					104,
+					105,
+					106,
+					107,
+					108,
+					109,
+					110,
+					111,
+					112,
+					113,
+					114,
+					115,
+					116,
+					117,
+					118,
+					119,
+					120,
+					121,
+					122,
+					123,
+					124,
+					125,
+					126,
+					127,
+					128,
+					129,
+					130,
+					131,
+					132,
+					133,
+					134,
+					135,
+					136,
+					137,
+					138,
+					139,
+					140,
+					141,
+					142,
+					143,
+					144,
+					145,
+					146,
+					147,
+					148,
+					149,
+					150,
+					151,
+					152,
+					153,
+					154,
+					155,
+					156,
+					157,
+					158,
+					159,
+					160,
+					161,
+					162,
+					163,
+					164,
+					165,
+					166,
+					167,
+					168,
+					169,
+					170,
+					171,
+					172,
+					173,
+					174,
+					175,
+					176,
+					177,
+					178,
+					179,
+					180,
+					181,
+					182,
+					183,
+					184,
+					185,
+					186,
+					187,
+					188,
+					189,
+					190,
+					191,
+					192,
+					193,
+					194,
+					195,
+					196,
+					197,
+					198,
+					199,
+					200,
+					201,
+					202,
+					203,
+					204,
+					205,
+					206,
+					207,
+					208,
+					209,
+					210,
+					211,
+					212,
+					213,
+					214,
+					215,
+					216,
+					217,
+					218,
+					219,
+					220,
+					221,
+					222,
+					223,
+					224,
+					225,
+					226
+				]
+			}
+		}
+	}
+}

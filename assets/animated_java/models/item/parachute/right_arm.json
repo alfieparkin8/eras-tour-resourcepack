@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"1": "minecraft:block/dancers/parachutes/steve"
+	},
+	"elements": [
+		{
+			"from": [
+				8.5,
+				7,
+				5.300000000000001
+			],
+			"to": [
+				11.5,
+				19,
+				9.3
+			],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [
+					9,
+					8,
+					7.300000000000001
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12.75,
+						5,
+						13.5,
+						8
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						10,
+						5,
+						11,
+						8
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [
+						11,
+						5,
+						11.75,
+						8
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						11.75,
+						5,
+						12.75,
+						8
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [
+						12.5,
+						4,
+						11.75,
+						5
+					],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [
+						11.75,
+						5,
+						11,
+						4
+					],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
