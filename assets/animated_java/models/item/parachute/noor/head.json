@@ -1,6 +1,1 @@
-{
-	"parent": "animated_java:item/parachute/head",
-	"textures": {
-		"1": "minecraft:block/dancers/parachutes/noor"
-	}
-}
+{"parent":"animated_java:item/parachute/head","textures":{"1":"minecraft:block/dancers/parachutes/noor"}}

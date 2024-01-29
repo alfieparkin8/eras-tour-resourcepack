@@ -1,0 +1,79 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "red_dye",
+  "textures": {
+    "0": "item/screens/border",
+    "1": "item/screens/intro/left_intro_567",
+    "particle": "item/screens/border"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        -0.1
+      ],
+      "to": [
+        16,
+        11,
+        -0.0375
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#1"
+        },
+        "east": {
+          "uv": [
+            1.25,
+            0.25,
+            1.75,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            5,
+            1
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            2.25,
+            0.25,
+            2.75,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            3.25,
+            0.25,
+            3.75,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4.25,
+            0.25,
+            4.75,
+            0.75
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

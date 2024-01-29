@@ -1,6 +1,1 @@
-{
-	"parent": "animated_java:item/parachute/right_leg",
-	"textures": {
-		"1": "minecraft:block/dancers/parachutes/kai"
-	}
-}
+{"parent":"animated_java:item/parachute/right_leg","textures":{"1":"minecraft:block/dancers/parachutes/kai"}}
