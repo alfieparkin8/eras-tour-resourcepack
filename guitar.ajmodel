@@ -14,13 +14,13 @@
 			"rig_export_folder": "",
 			"texture_export_folder": "",
 			"enable_advanced_resource_pack_settings": false,
-			"resource_pack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\pack.mcmeta",
+			"resource_pack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\pack.mcmeta",
 			"verbose": true,
 			"exporter": "animated_java:datapack_exporter"
 		},
 		"exporter_settings": {
 			"animated_java:datapack_exporter": {
-				"datapack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\saves\\eras-tour-world\\datapacks\\Eras Tour Datapack\\pack.mcmeta",
+				"datapack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\saves\\eras-tour-world\\datapacks\\Eras Tour Datapack\\pack.mcmeta",
 				"outdated_rig_warning": true,
 				"root_entity_nbt": "{}",
 				"include_variant_summon_functions": false,
@@ -4100,7 +4100,7 @@
 	],
 	"textures": [
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\blank.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\blank.png",
 			"name": "blank",
 			"folder": "",
 			"namespace": "",
@@ -4127,7 +4127,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\guitars\\lover.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\guitars\\lover.png",
 			"name": "lover",
 			"folder": "block",
 			"namespace": "minecraft",
@@ -4154,7 +4154,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\outfits\\lover\\sunset_layer_1.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\outfits\\lover\\sunset_layer_1.png",
 			"name": "sunset_layer_1",
 			"folder": "block",
 			"namespace": "",
@@ -4181,7 +4181,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\outfits\\lover\\grey_layer_1.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\outfits\\lover\\grey_layer_1.png",
 			"name": "grey_layer_1",
 			"folder": "block",
 			"namespace": "",
