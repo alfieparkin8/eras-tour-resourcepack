@@ -10,5 +10,11 @@
     "sounds": [
       "intro/tock"
     ]
+  },
+  "music.intro": {
+	"subtitle":"audio.music.intro",
+    "sounds": [
+      "music/intro"
+    ]
   }
 }
