@@ -14,13 +14,13 @@
 			"rig_export_folder": "",
 			"texture_export_folder": "",
 			"enable_advanced_resource_pack_settings": false,
-			"resource_pack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\pack.mcmeta",
+			"resource_pack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\pack.mcmeta",
 			"verbose": true,
 			"exporter": "animated_java:datapack_exporter"
 		},
 		"exporter_settings": {
 			"animated_java:datapack_exporter": {
-				"datapack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\saves\\eras-tour-world\\datapacks\\Eras Tour Datapack\\pack.mcmeta",
+				"datapack_mcmeta": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\saves\\eras-tour-world\\datapacks\\Eras Tour Datapack\\pack.mcmeta",
 				"outdated_rig_warning": true,
 				"root_entity_nbt": "{}",
 				"include_variant_summon_functions": true,
@@ -3612,7 +3612,7 @@
 	],
 	"textures": [
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\parachute.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\parachute.png",
 			"name": "parachute",
 			"folder": "block",
 			"namespace": "minecraft",
@@ -3639,7 +3639,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\steve.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\steve.png",
 			"name": "steve",
 			"folder": "",
 			"namespace": "",
@@ -3666,7 +3666,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\alex.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\alex.png",
 			"name": "alex",
 			"folder": "",
 			"namespace": "",
@@ -3693,7 +3693,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\ari.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\ari.png",
 			"name": "ari",
 			"folder": "",
 			"namespace": "",
@@ -3720,7 +3720,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\efe.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\efe.png",
 			"name": "efe",
 			"folder": "",
 			"namespace": "",
@@ -3747,7 +3747,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\kai.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\kai.png",
 			"name": "kai",
 			"folder": "",
 			"namespace": "",
@@ -3774,7 +3774,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\makena.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\makena.png",
 			"name": "makena",
 			"folder": "",
 			"namespace": "",
@@ -3801,7 +3801,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\noor.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\noor.png",
 			"name": "noor",
 			"folder": "",
 			"namespace": "",
@@ -3828,7 +3828,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\sunny.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\sunny.png",
 			"name": "sunny",
 			"folder": "",
 			"namespace": "",
@@ -3855,7 +3855,7 @@
 			"mode": "bitmap"
 		},
 		{
-			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\ships\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\zuri.png",
+			"path": "C:\\Users\\Alfie\\MultiMC\\instances\\1.20.1 wiht only optifine\\.minecraft\\resourcepacks\\eras-tour-resourcepack\\assets\\minecraft\\textures\\block\\dancers\\parachutes\\zuri.png",
 			"name": "zuri",
 			"folder": "",
 			"namespace": "",
@@ -4934,7 +4934,7 @@
 			"override": false,
 			"length": 4,
 			"snapping": 20,
-			"selected": true,
+			"selected": false,
 			"anim_time_update": "",
 			"blend_weight": "",
 			"start_delay": "",
@@ -5257,6 +5257,48 @@
 							"bezier_right_value": [0, 0, 0]
 						}
 					]
+				},
+				"effects": {
+					"name": "Effects",
+					"type": "effect",
+					"keyframes": [
+						{
+							"channel": "commands",
+							"data_points": [
+								{
+									"commands": "function animated_java:parachute/animations/fan/stop\nsetblock -173 22 -74 minecraft:air\n",
+									"executeCondition": ""
+								}
+							],
+							"uuid": "d5bac9bf-12ce-3db5-c9ce-77415d75e579",
+							"time": 0,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						},
+						{
+							"channel": "commands",
+							"data_points": [
+								{
+									"commands": "tp @s ~ ~ ~ ~45 0\nfunction animated_java:parachute/animations/fan/play\nfunction animated_java:parachute/animations/rotate_right/stop\n",
+									"executeCondition": ""
+								}
+							],
+							"uuid": "73781f72-dbf5-498c-7232-20a0af41d5ab",
+							"time": 2,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						}
+					]
 				}
 			}
 		},
@@ -5267,7 +5309,7 @@
 			"override": false,
 			"length": 2,
 			"snapping": 20,
-			"selected": false,
+			"selected": true,
 			"anim_time_update": "",
 			"blend_weight": "",
 			"start_delay": "",
@@ -5352,6 +5394,48 @@
 								}
 							],
 							"uuid": "6a6afe56-16ec-7142-f471-ec7d2f543b57",
+							"time": 2,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						}
+					]
+				},
+				"effects": {
+					"name": "Effects",
+					"type": "effect",
+					"keyframes": [
+						{
+							"channel": "commands",
+							"data_points": [
+								{
+									"commands": "function animated_java:parachute/animations/fan/stop\nsetblock -173 22 -74 minecraft:air",
+									"executeCondition": ""
+								}
+							],
+							"uuid": "bd9818f2-81a8-9e03-358b-b28c284a23db",
+							"time": 0,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						},
+						{
+							"channel": "commands",
+							"data_points": [
+								{
+									"commands": "tp @s ~ ~ ~ ~-45 0\nfunction animated_java:parachute/animations/fan/play\nfunction animated_java:parachute/animations/rotate_left/stop",
+									"executeCondition": ""
+								}
+							],
+							"uuid": "2259364d-8319-0166-082a-e48d21813320",
 							"time": 2,
 							"color": -1,
 							"interpolation": "linear",
