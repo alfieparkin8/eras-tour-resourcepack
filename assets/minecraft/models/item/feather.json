@@ -1,10 +1,12 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/feather"
-  },
-    "overrides": [
-	    { "predicate": { "custom_model_data": 1}, "model": "item/guitars/lover"},
-		{ "predicate": { "custom_model_data": 2}, "model": "item/guitars/surprise"}
-    ]
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/feather"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/guitars/lover_pink"},
+		{"model": "item/guitars/lover_blue", "predicate": {"custom_model_data": 2}},
+		{"predicate": {"custom_model_data": 3}, "model": "item/guitars/surprise"}
+	]
 }
