@@ -5,7 +5,16 @@
   },
     "overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/microphones/lover"},
-	    { "predicate": { "custom_model_data": 2}, "model": "item/microphones/surprise"},
-		{ "predicate": { "custom_model_data": 3}, "model": "item/microphones/folklore"}
+		{ "predicate": { "custom_model_data": 2}, "model": "item/microphones/lover2"},
+		{ "predicate": { "custom_model_data": 3}, "model": "item/microphones/fearless"},
+		{ "predicate": { "custom_model_data": 4}, "model": "item/microphones/evermore"},
+		{ "predicate": { "custom_model_data": 5}, "model": "item/microphones/reputation"},
+		{ "predicate": { "custom_model_data": 6}, "model": "item/microphones/speak_now"},
+	    { "predicate": { "custom_model_data": 7}, "model": "item/microphones/red"},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/microphones/red2"},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/microphones/folklore"},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/microphones/1989"},
+		{ "predicate": { "custom_model_data": 11}, "model": "item/microphones/surprise"},
+		{ "predicate": { "custom_model_data": 12}, "model": "item/microphones/midnights"}
     ]
 }
