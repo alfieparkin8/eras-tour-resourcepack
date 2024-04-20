@@ -31,6 +31,7 @@
 		{"predicate": {"custom_model_data": 24}, "model": "item/screens/clock-fade/8"},
 		{"predicate": {"custom_model_data": 25}, "model": "item/screens/clock-fade/9"},
 		{"predicate": {"custom_model_data": 26}, "model": "item/screens/clock-fade/10"},
-		{"model": "item/screens/folklore/illicit", "predicate": {"custom_model_data": 27}}
+		{"model": "item/screens/folklore/illicit", "predicate": {"custom_model_data": 27}},
+		{"model": "item/screens/evermore/tolerate", "predicate": {"custom_model_data": 28}}
 	]
 }

@@ -16,5 +16,11 @@
     "sounds": [
       "music/intro"
     ]
+  },
+  "music.illicit_affairs": {
+	"subtitle":"audio.music.illicit_affairs",
+    "sounds": [
+      "music/illicit_affairs"
+    ]
   }
 }

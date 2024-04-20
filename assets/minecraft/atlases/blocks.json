@@ -4,6 +4,11 @@
             "type": "directory",
             "source": "item",
             "prefix": "item/"
+        },
+		{
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
         }
     ]
 }
