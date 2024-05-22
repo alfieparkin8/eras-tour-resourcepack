@@ -7,6 +7,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "item/guitars/lover_pink"},
 		{"model": "item/guitars/lover_blue", "predicate": {"custom_model_data": 2}},
-		{"predicate": {"custom_model_data": 3}, "model": "item/guitars/surprise"}
+		{"model": "item/guitars/fearless", "predicate": {"custom_model_data": 3}},
+		{"predicate": {"custom_model_data": 4}, "model": "item/guitars/surprise"}
 	]
 }
