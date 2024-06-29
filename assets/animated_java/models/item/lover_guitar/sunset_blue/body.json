@@ -1,1 +1,6 @@
-{"parent":"animated_java:item/lover_guitar/body","textures":{"1":"minecraft:block/guitars/lover_blue"}}
+{
+	"parent": "animated_java:item/lover_guitar/body",
+	"textures": {
+		"2": "animated_java:item/lover_guitar/lover_blue"
+	}
+}

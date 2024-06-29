@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/lover_guitar/stand",
+	"textures": {
+		"1": "animated_java:item/lover_guitar/heart_layer_1",
+		"5": "animated_java:item/lover_guitar/heart_boots_layer_1"
+	}
+}

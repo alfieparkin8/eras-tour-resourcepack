@@ -1,1 +1,8 @@
-{"parent":"animated_java:item/lover_microphone/right_bend","textures":{"0":"minecraft:block/outfits/lover/heart_layer_1","3":"minecraft:block/outfits/lover/models_layer_1"}}
+{
+	"parent": "animated_java:item/lover_microphone/right_bend",
+	"textures": {
+		"2": "animated_java:item/lover_microphone/heart_layer_1",
+		"7": "animated_java:item/lover_microphone/models_layer_1",
+		"8": "animated_java:item/lover_microphone/heart_boots_layer_1"
+	}
+}

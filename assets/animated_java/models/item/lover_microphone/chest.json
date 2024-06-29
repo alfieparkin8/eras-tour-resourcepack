@@ -1,1 +1,134 @@
-{"textures":{"1":"minecraft:block/blank"},"elements":[{"from":[3.7750000000000004,7.25,6.0225],"to":[11.775,20.75,11.7225],"rotation":{"angle":0,"axis":"y","origin":[8,13.5,8]},"faces":{"north":{"uv":[5,9,7,12],"texture":"#1"},"south":{"uv":[8,9,10,12],"texture":"#1"}}},{"from":[3.825,8.5,6.8725000000000005],"to":[11.825,20.5,10.8725],"rotation":{"angle":0,"axis":"y","origin":[8,13.5,8]},"faces":{"north":{"uv":[5,5,7,8],"texture":"#1"},"east":{"uv":[4,5,5,8],"texture":"#1"},"south":{"uv":[8,5,10,8],"texture":"#1"},"west":{"uv":[7,5,8,8],"texture":"#1"},"up":{"uv":[7,5,5,4],"texture":"#1"},"down":{"uv":[9,4,7,5],"texture":"#1"}}}],"display":{"head":{"rotation":[0,180,0]}}}
+{
+	"textures": {
+		"0": "animated_java:item/lover_microphone/blank"
+	},
+	"elements": [
+		{
+			"from": [
+				3.7750000000000004,
+				7.25,
+				6.0225
+			],
+			"to": [
+				11.775,
+				20.75,
+				11.7225
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					13.5,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						5,
+						9,
+						7,
+						12
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						8,
+						9,
+						10,
+						12
+					],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [
+				3.825,
+				8.5,
+				6.8725000000000005
+			],
+			"to": [
+				11.825,
+				20.5,
+				10.8725
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					13.5,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						5,
+						5,
+						7,
+						8
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						4,
+						5,
+						5,
+						8
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						8,
+						5,
+						10,
+						8
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						7,
+						5,
+						8,
+						8
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						7,
+						5,
+						5,
+						4
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						9,
+						4,
+						7,
+						5
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

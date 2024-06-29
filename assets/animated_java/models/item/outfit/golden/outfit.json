@@ -1,1 +1,7 @@
-{"parent":"animated_java:item/outfit/outfit","textures":{"2":"minecraft:block/outfits/lover/golden_layer_1","4":"minecraft:block/outfits/lover/golden_boots_layer_1"}}
+{
+	"parent": "animated_java:item/outfit/outfit",
+	"textures": {
+		"2": "minecraft:block/outfits/lover/golden_layer_1",
+		"4": "minecraft:block/outfits/lover/golden_boots_layer_1"
+	}
+}

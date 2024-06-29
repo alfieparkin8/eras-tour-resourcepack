@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/lover_guitar/leg2",
+	"textures": {
+		"1": "animated_java:item/lover_guitar/tangerine_layer_1",
+		"5": "animated_java:item/lover_guitar/tangerine_boots_layer_1"
+	}
+}

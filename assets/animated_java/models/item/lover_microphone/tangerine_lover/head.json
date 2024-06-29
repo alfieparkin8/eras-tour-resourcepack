@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/lover_microphone/head",
+	"textures": {
+		"0": "animated_java:item/lover_microphone/blank_hair",
+		"2": "animated_java:item/lover_microphone/tangerine_layer_1",
+		"7": "animated_java:item/lover_microphone/grey_boots_layer_1",
+		"8": "animated_java:item/lover_microphone/orange_boots_layer_1"
+	}
+}

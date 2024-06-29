@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "block/torch"
+	},
+	"overrides": [
+		{"model": "item/bracelets/bracelet", "predicate": {"custom_model_data": 1}},
+		{"model": "item/bracelets/bracelet-red", "predicate": {"custom_model_data": 2}},
+		{"model": "item/bracelets/bracelet-orange", "predicate": {"custom_model_data": 3}},
+		{"model": "item/bracelets/bracelet-yellow", "predicate": {"custom_model_data": 4}},
+		{"model": "item/bracelets/bracelet-green", "predicate": {"custom_model_data": 5}},
+		{"model": "item/bracelets/bracelet-light-blue", "predicate": {"custom_model_data": 6}},
+		{"model": "item/bracelets/bracelet-blue", "predicate": {"custom_model_data": 7}},
+		{"model": "item/bracelets/bracelet-purple", "predicate": {"custom_model_data": 8}},
+		{"model": "item/bracelets/bracelet-pink", "predicate": {"custom_model_data": 9}}
+	]
+}

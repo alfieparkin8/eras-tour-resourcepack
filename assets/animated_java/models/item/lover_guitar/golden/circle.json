@@ -1,1 +1,7 @@
-{"parent":"animated_java:item/lover_guitar/circle","textures":{"2":"minecraft:block/outfits/lover/golden_layer_1","3":"minecraft:block/outfits/lover/golden_boots_layer_1"}}
+{
+	"parent": "animated_java:item/lover_guitar/circle",
+	"textures": {
+		"1": "animated_java:item/lover_guitar/golden_layer_1",
+		"5": "animated_java:item/lover_guitar/golden_boots_layer_1"
+	}
+}

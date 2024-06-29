@@ -1,1 +1,8 @@
-{"parent":"animated_java:item/outfit/waist","textures":{"2":"minecraft:block/outfits/1989/blue_layer_1","4":"minecraft:block/outfits/1989/blue_layer_1","6":"minecraft:block/outfits/1989/blue_layer_2"}}
+{
+	"parent": "animated_java:item/outfit/waist",
+	"textures": {
+		"2": "animated_java:item/outfit/blue_layer_1",
+		"4": "animated_java:item/outfit/blue_layer_1",
+		"6": "animated_java:item/outfit/blue_layer_2"
+	}
+}

@@ -1,1 +1,7 @@
-{"parent":"animated_java:item/lover_microphone/head","textures":{"1":"minecraft:block/blank_hair","3":"minecraft:block/outfits/lover/grey_boots_layer_1"}}
+{
+	"parent": "animated_java:item/lover_microphone/head",
+	"textures": {
+		"0": "animated_java:item/lover_microphone/blank_hair",
+		"7": "animated_java:item/lover_microphone/grey_boots_layer_1"
+	}
+}

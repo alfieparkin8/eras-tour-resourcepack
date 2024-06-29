@@ -1,1 +1,9 @@
-{"parent":"animated_java:item/lover_microphone/left_straight","textures":{"0":"minecraft:block/outfits/lover/heart_layer_1","1":"minecraft:block/blank_hair","3":"minecraft:block/outfits/lover/grey_boots_layer_1"}}
+{
+	"parent": "animated_java:item/lover_microphone/left_straight",
+	"textures": {
+		"0": "animated_java:item/lover_microphone/blank_hair",
+		"2": "animated_java:item/lover_microphone/heart_layer_1",
+		"7": "animated_java:item/lover_microphone/grey_boots_layer_1",
+		"8": "animated_java:item/lover_microphone/heart_boots_layer_1"
+	}
+}

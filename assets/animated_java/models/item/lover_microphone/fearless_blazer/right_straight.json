@@ -1,1 +1,8 @@
-{"parent":"animated_java:item/lover_microphone/right_straight","textures":{"0":"minecraft:block/outfits/lover/golden_layer_1","3":"minecraft:block/outfits/lover/fearless_layer_1","5":"minecraft:block/outfits/lover/golden_boots_layer_1"}}
+{
+	"parent": "animated_java:item/lover_microphone/right_straight",
+	"textures": {
+		"2": "animated_java:item/lover_microphone/golden_layer_1",
+		"7": "animated_java:item/lover_microphone/fearless_layer_1",
+		"8": "animated_java:item/lover_microphone/golden_boots_layer_1"
+	}
+}

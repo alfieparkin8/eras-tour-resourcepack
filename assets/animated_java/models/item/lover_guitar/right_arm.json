@@ -1,1 +1,93 @@
-{"textures":{"0":"minecraft:block/blank_hair"},"elements":[{"from":[6.5,-4,6],"to":[9.5,8,10],"rotation":{"angle":0,"axis":"y","origin":[-5.5,-15.5,0]},"faces":{"north":{"uv":[11,5,11.75,8],"texture":"#0"},"east":{"uv":[10,5,11,8],"texture":"#0"},"south":{"uv":[12.75,5,13.5,8],"texture":"#0"},"west":{"uv":[11.75,5,12.75,8],"texture":"#0"},"up":{"uv":[11.75,5,11,4],"texture":"#0"},"down":{"uv":[12.5,4,11.75,5],"texture":"#0"}}}],"display":{"head":{"rotation":[0,180,0]}}}
+{
+	"textures": {
+		"0": "animated_java:item/lover_guitar/blank_hair"
+	},
+	"elements": [
+		{
+			"from": [
+				6.5,
+				-4,
+				6
+			],
+			"to": [
+				9.5,
+				8,
+				10
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					-5.5,
+					-15.5,
+					0
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						11,
+						5,
+						11.75,
+						8
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						10,
+						5,
+						11,
+						8
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						12.75,
+						5,
+						13.5,
+						8
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						11.75,
+						5,
+						12.75,
+						8
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						11.75,
+						5,
+						11,
+						4
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						12.5,
+						4,
+						11.75,
+						5
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
